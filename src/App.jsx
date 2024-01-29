@@ -1,7 +1,11 @@
+import PostsList from "./features/posts/PostsList"
+
 function App() {
 
   return (
-    <div>Hello</div>
+    <main >
+      <PostsList/>
+    </main>
   )
 }
 
